@@ -1,7 +1,7 @@
 import React from 'react';
 import { MdOutlineCancel } from 'react-icons/md';
 
-import { Button } from '.';
+import { Button } from './index';
 import { userProfileData } from '../data/dummy';
 import { useStateContext } from '../contexts/ContextProvider';
 import avatar from '../data/avatar.jpg';
@@ -29,7 +29,7 @@ const UserProfile = () => {
         />
         <div>
           <p className="font-semibold text-xl dark:text-gray-200"> Umair Habib </p>
-          <p className="text-gray-500 text-sm dark:text-gray-400">  Senior Software Developer   </p>
+          <p className="text-gray-500 text-sm dark:text-gray-400">  SeniorSoftware Developer   </p>
           <p className="text-gray-500 text-sm font-semibold dark:text-gray-400"> info@DataVisualizer.com </p>
         </div>
       </div>
