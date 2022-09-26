@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 Deployed Link: [Data-Visualizer](https://data-visualizer.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
